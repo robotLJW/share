@@ -28,3 +28,4 @@
 
 [Microsoft-Go语言入门](https://docs.microsoft.com/zh-cn/learn/modules/go-get-started/)
 
+> 作为 go 入门学习材料还是不错的，有学习+实践，很赞！！！
